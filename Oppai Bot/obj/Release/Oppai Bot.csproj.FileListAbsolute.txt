@@ -1,0 +1,18 @@
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Oppai Bot.exe.config
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Oppai Bot.exe
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Oppai Bot.pdb
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Discord.Net.Commands.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Discord.Net.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Nito.AsyncEx.Concurrent.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Nito.AsyncEx.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Nito.AsyncEx.Enlightenment.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\RestSharp.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\WebSocket4Net.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Nito.AsyncEx.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Nito.AsyncEx.Concurrent.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\Nito.AsyncEx.Enlightenment.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Release\RestSharp.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\obj\Release\Oppai Bot.exe
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\obj\Release\Oppai Bot.pdb

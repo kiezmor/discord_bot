@@ -1,0 +1,22 @@
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Oppai Bot.exe.config
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Oppai Bot.exe
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Oppai Bot.pdb
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Discord.Net.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\RestSharp.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\WebSocket4Net.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\RestSharp.xml
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\obj\Debug\Oppai Bot.csprojResolveAssemblyReference.cache
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\obj\Debug\Oppai Bot.exe
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\obj\Debug\Oppai Bot.pdb
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Discord.Net.Audio.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\Discord.Net.Modules.dll
+C:\Users\FIXE\documents\visual studio 2015\Projects\Oppai Bot\Oppai Bot\bin\Debug\libvideo.dll
